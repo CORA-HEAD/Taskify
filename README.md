@@ -20,12 +20,4 @@ Taskify is a minimalist To-Do List application built using HTML, JavaScript, and
 HTML – Structure of the web app
 JavaScript (Vanilla JS) – Handles task functionality
 Tailwind CSS – Provides a sleek, modern, and responsive design
-📥 Installation & Usage
-Clone the repository and run it locally:
 
-sh
-Copy
-Edit
-git clone https://github.com/your-username/taskify.git
-cd taskify
-Then, open index.html in a browser.
