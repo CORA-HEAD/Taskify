@@ -11,10 +11,8 @@ Taskify is a minimalist To-Do List application built using HTML, JavaScript, and
 ✅ Tailwind CSS Styling – Modern, clean design for a better user experience
 
 🚀 Live Demo
-🔗 Taskify Live Demo (Add your deployed link here if hosted on Netlify, GitHub Pages, or Vercel)
+🔗 taskify-rcoz.vercel.app/
 
-📷 Screenshot
-(Upload a screenshot of the app and replace this link)
 
 🛠️ Technologies Used
 HTML – Structure of the web app
