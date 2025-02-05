@@ -12,8 +12,7 @@ Taskify is a minimalist To-Do List application built using HTML, JavaScript, and
 
 🚀 Live Demo
 🔗 taskify-rcoz.vercel.app/
-📷 Screenshot
-(Upload a screenshot of the app and replace this link)
+
 
 🛠️ Technologies Used
 HTML – Structure of the web app
